@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@100;700&family=Cairo+Play:wght@700&family=Cairo:wght@600&display=swap');
+
+body {
+font-family: 'Cairo', sans-serif;
+margin: 0;
+border: 40px;
+border-style: ridge;
+border-color: burlywood;
+text-align: center;
+
+
+}
+h1 {
+    font-size: 70px;
+}
+
+P {
+    font-size: 30px;
+
+}
